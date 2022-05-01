@@ -1,0 +1,1392 @@
+﻿Log file open, 04/27/22 21:14:50
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CardManGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.951633
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.27-11.44.51:777][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.27-11.44.51:777][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.27-11.44.51:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:778][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.27-11.44.51:790][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.27-11.44.51:791][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.27-11.44.51:791][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.27-11.44.51:792][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.27-11.44.51:793][  0]LogHAL: Display: Platform has ~ 32 GB [34202046464 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.27-11.44.51:793][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.27-11.44.51:793][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.04.27-11.44.51:793][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.27-11.44.51:794][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.27-11.44.51:797][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.27-11.44.51:797][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.27-11.44.51:797][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.27-11.44.51:797][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Engine.ini]
+[2022.04.27-11.44.51:797][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/CardManGame/CardManGame/Saved/Config/Windows/Editor.ini]
+[2022.04.27-11.44.51:800][  0]LogInit: Computer: LAPTOP-8B7FDK78
+[2022.04.27-11.44.51:800][  0]LogInit: User: 王俊博
+[2022.04.27-11.44.51:800][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.27-11.44.51:800][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.27-11.44.51:800][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.04.27-11.44.51:800][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.27-11.44.51:800][  0]LogMemory: Process Physical Memory: 137.75 MB used, 137.76 MB peak
+[2022.04.27-11.44.51:800][  0]LogMemory: Process Virtual Memory: 109.93 MB used, 109.93 MB peak
+[2022.04.27-11.44.51:800][  0]LogMemory: Physical Memory: 5115.18 MB used,  27502.44 MB free, 32617.61 MB total
+[2022.04.27-11.44.51:800][  0]LogMemory: Virtual Memory: 134158800.00 MB used,  58929.55 MB free, 134217728.00 MB total
+[2022.04.27-11.44.51:840][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.27-11.44.52:107][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.27-11.44.52:109][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.04.27-11.44.52:109][  0]LogInit: Overriding language with editor locale configuration option (zh).
+[2022.04.27-11.44.52:380][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.27-11.44.52:402][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.27-11.44.52:455][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.27-11.44.52:456][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.27-11.44.54:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.27-11.44.54:229][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.27-11.44.54:229][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.27-11.44.54:229][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.27-11.44.54:346][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2022.04.27-11.44.54:346][  0]LogD3D11RHI:       8031/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.27-11.44.54:382][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.04.27-11.44.54:382][  0]LogD3D11RHI:       128/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.27-11.44.54:384][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.27-11.44.54:384][  0]LogD3D11RHI:       0/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.27-11.44.54:384][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.27-11.44.54:390][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.27-11.44.54:390][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.27-11.44.54:390][  0]LogWindows: EnumDisplayDevices:
+[2022.04.27-11.44.54:390][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.04.27-11.44.54:390][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.04.27-11.44.54:390][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.04.27-11.44.54:391][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.04.27-11.44.54:391][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.04.27-11.44.54:391][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.04.27-11.44.54:391][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.04.27-11.44.54:391][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.04.27-11.44.54:391][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.04.27-11.44.54:392][  0]LogD3D11RHI:   Driver Version: 512.59 (internal:30.0.15.1259, unified:512.59)
+[2022.04.27-11.44.54:392][  0]LogD3D11RHI:      Driver Date: 4-20-2022
+[2022.04.27-11.44.54:392][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.04.27-11.44.54:451][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.27-11.44.54:452][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.27-11.44.54:452][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.27-11.44.54:494][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.27-11.44.54:498][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.27-11.44.56:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.27-11.44.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.27-11.44.56:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.27-11.44.56:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.27-11.44.56:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.27-11.44.56:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.27-11.44.56:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.27-11.44.56:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.27-11.44.56:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.27-11.44.56:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.27-11.44.56:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.27-11.44.56:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.27-11.44.56:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.27-11.44.56:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.27-11.44.56:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.27-11.44.56:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.27-11.44.56:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.27-11.44.56:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.27-11.44.56:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.27-11.44.56:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.27-11.44.56:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.27-11.44.56:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.27-11.44.56:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.27-11.44.56:499][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.27-11.44.56:559][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.27-11.44.56:998][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.27-11.44.56:999][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../Github/CardManGame/CardManGame/Intermediate/Shaders/WorkingDirectory/8180/).
+[2022.04.27-11.44.56:999][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Temp/UnrealShaderWorkingDir/15066CBC42AB33A130C753A3ACD05896/'.
+[2022.04.27-11.44.57:000][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.27-11.44.57:000][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.27-11.44.59:255][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.27-11.44.59:363][  0]LogDerivedDataCache: Loaded boot cache 0.11s 77MB C:/Users/王俊博/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.27-11.44.59:363][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/王俊博/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.04.27-11.44.59:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Github/CardManGame/CardManGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.27-11.44.59:363][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.27-11.44.59:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Github/CardManGame/CardManGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.27-11.44.59:363][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.27-11.44.59:383][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.27-11.44.59:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.27-11.44.59:383][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.27-11.44.59:423][  0]LogDerivedDataCache: Speed tests for C:/Users/王俊博/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.04.27-11.44.59:423][  0]LogDerivedDataCache: Display: Performance to C:/Users/王俊博/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=29.67MBs, RandomWriteSpeed=160.15MBs. Assigned SpeedClass 'Local'
+[2022.04.27-11.44.59:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/王俊博/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.27-11.44.59:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.27-11.44.59:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.27-11.44.59:478][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.27-11.44.59:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.27-11.44.59:615][  0]LogAssetRegistry: FAssetRegistry took 0.0055 seconds to start up
+[2022.04.27-11.44.59:919][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.27-11.44.59:919][  0]LogInit: Active device profile: [0000025FBE2D1B00][0000025FBDDA8380 49] Windows
+[2022.04.27-11.44.59:919][  0]LogInit: Profiles: [0000025FBE2D1B00][0000025FBDDA8380 49] Windows, [0000025FBE290D00][0000025FBDDB0500 49] WindowsNoEditor, [0000025FBE2D0C00][0000025FBDDB4680 49] WindowsServer, [0000025FBE293B00][0000025FBDDB8800 49] WindowsClient, [0000025FBE2D3700][0000025FBDDBC980 49] IOS, [0000025FBE293100][0000025FBDDC0B00 49] iPadAir, [0000025FBE2D2E00][0000025FBDDC4C80 49] iPadAir2, [0000025FBE242E00][0000025FBDDCCF40 49] IPadPro, [0000025FBE242F00][0000025FBDDC8F80 49] iPadAir3, [0000025FBE2D1300][0000025FBDDD1100 49] iPadAir4, [0000025FBE242800][0000025FBDDD5280 49] iPadMini2, [0000025FBE2D3100][0000025FBDDD9400 49] iPadMini3, [0000025FBE241700][0000025FBDDDD580 49] iPadMini4, [0000025FBE2D1200][0000025FBDDAD6C0 49] iPadMini5, [0000025FBE262700][0000025FBDDE5900 49] iPhone6, [0000025FBE262800][0000025FBDDE1940 49] iPodTouch6, [0000025FBE243600][0000025FBDDF1BC0 49] iPhone7, [0000025FBE243700][0000025FBDDE9C00 49] iPodTouch7, [0000025FBE263F00][0000025FBDDF40C0 49] iPhone5S, [0000025FBE243500][0000025FBDDF8240 49] iPhone6Plus, [0000025FBE261500][0000025FBDDFC3C0 49] iPhone6S, [0000025FBE241100][0000025FBEFA6540 49] iPhone6SPlus, [0000025FBE260400][0000025FBEFAA6C0 49] iPhone7Plus, [0000025FBE240B00][0000025FBEFAE840 49] iPhoneSE, [0000025FBE263300][0000025FBEFB29C0 49] iPhone8, [0000025FBE241500][0000025FBEFB6B40 49] iPhone8Plus, [0000025FBE261900][0000025FBEFBACC0 49] iPhoneX, [0000025FBE242200][0000025FBEFBEE40 49] iPhoneXS, [0000025FBE262E00][0000025FBEFC2FC0 49] iPhoneXSMax, [0000025FBE243F00][0000025FBEFC7140 49] iPhoneXR, [0000025FBE260B00][0000025FBEFCB2C0 49] iPhone11, [0000025FBE243300][0000025FBEFCF440 49] iPhone11Pro, [0000025FBE263C00][0000025FBEFD35C0 49] iPhone11ProMax, [0000025FBE240100][0000025FBDDED700 49] iPhoneSE2, [0000025FBE262200][0000025FBEFD7840 49] iPhone12Mini, [0000025FBE241300][0000025FBEFDB980 49] iPhone12, [0000025FBE261000][0000025FBEFDFAC0 49] iPhone12Pro, [0000025FBE241600][0000025FBEFE7C40 49] iPhone12ProMax, [0000025FBE261200][0000025FBEFEA100 49] iPadPro105, [0000025FBE263800][0000025FBEFEE280 49] iPadPro129, [0000025FBE291C00][0000025FBEFF2400 49] iPadPro97, [0000025FBE263100][0000025FBEFF6580 49] iPadPro2_129, [0000025FBE293300][0000025FBEFFA700 49] iPad5, [0000025FBE262B00][0000025FBEFFE880 49] iPad6, [0000025FBE292300][0000025FBF002A00 49] iPad7, [0000025FBE263600][0000025FBF006B80 49] iPad8, [0000025FBE291E00][0000025FBF00AD00 49] iPadPro11, [0000025FBE262F00][0000025FBF00EE80 49] iPadPro2_11, [0000025FBE292100][0000025FBF013000 49] iPadPro3_129, [0000025FBE292900][0000025FBF017180 49] iPadPro4_129, [0000025FBE240A00][0000025FBF01B300 49] AppleTV, [0000025FBE293500][0000025FBF01F480 49] AppleTV4K, [0000025FBE242B00][0000025FBF023600 49] TVOS, [0000025FBE262300][0000025FBF027780 49] Mac, [0000025FBE242700][0000025FBEFE38C0 49] MacClient, [0000025FBE260200][0000025FBF02BA00 49] MacNoEditor, [0000025FBE240300][0000025FBF02FB40 49] MacServer, [0000025FBE263000][0000025FBF037CC0 49] Linux, [0000025FBE240C00][0000025FBF03A180 49] LinuxAArch64, [0000025FBE261B00][0000025FBF03E300 49] LinuxNoEditor, [0000025FBE242C00][0000025FBF042480 49] LinuxAArch64NoEditor, [0000025FBE260F00][0000025FBF046600 49] LinuxClient, [0000025FBE243D00][0000025FBF04A780 49] LinuxAArch64Client, [0000025FBE263400][0000025FBF04E900 49] LinuxServer, [0000025FBE243900][0000025FBF052A80 49] LinuxAArch64Server, [0000025FBE260500][0000025FBF056C00 49] Android, [0000025FBE243400][0000025FBF05AD80 49] Android_Low, [0000025FBE262C00][0000025FBF05EF00 49] Android_Mid, [0000025FBE240F00][0000025FBF063080 49] Android_High, [0000025FBE263E00][0000025FBF067200 49] Android_Default, [0000025FBE240600][0000025FBF06B380 49] Android_Adreno4xx, [0000025FBE260E00][0000025FBF06F500 49] Android_Adreno5xx_Low, [0000025FBE240500][0000025FBF073680 49] Android_Adreno5xx, [0000025FBE262A00][0000025FBF077800 49] Android_Adreno6xx, [0000025FBE243000][0000025FBF033940 49] Android_Adreno6xx_Vulkan, [0000025FBE262500][0000025FBF07BA80 49] Android_Mali_T6xx, [0000025FBE242000][0000025FBF07FBC0 49] Android_Mali_T7xx, [0000025FBE261700][0000025FBF083D00 49] Android_Mali_T8xx, [0000025FBE241800][0000025FBF08A1C0 49] Android_Mali_G71, [0000025FBE263200][0000025FBF08E340 49] Android_Mali_G72, [0000025FBE241C00][0000025FBF0924C0 49] Android_Mali_G72_Vulkan, [0000025FBE263D00][0000025FBF096640 49] Android_Mali_G76, [0000025FBE243800][0000025FBF09A7C0 49] Android_Mali_G76_Vulkan, [0000025FBE260800][0000025FBF09E940 49] Android_Mali_G77, [0000025FBE240700][0000025FBF0A2AC0 49] Android_Mali_G77_Vulkan, [0000025FBE260C00][0000025FBF0A6C40 49] Android_Vulkan_SM5, [0000025FBE241A00][0000025FBF0AADC0 49] Android_PowerVR_G6xxx, [0000025FBE260100][0000025FBF0AEF40 49] Android_PowerVR_GT7xxx, [0000025FBE241B00][0000025FBF0B30C0 49] Android_PowerVR_GE8xxx, [0000025FBE261400][0000025FBF0B7240 49] Android_PowerVR_GM9xxx, [0000025FBE242900][0000025FBF0BB3C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000025FBE263B00][0000025FBF0BF540 49] Android_TegraK1, [0000025FBE243B00][0000025FBF0C36C0 49] Android_Unknown_Vulkan, [0000025FBE261C00][0000025FBF0C7840 49] Lumin, [0000025FBE293E00][0000025FBF087980 49] Lumin_Desktop, [0000025FBE2D0400][0000025FBF0CBAC0 49] HoloLens, 
+[2022.04.27-11.45.00:322][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.27-11.45.00:322][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.27-11.45.00:322][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.27-11.45.00:322][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.27-11.45.00:323][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.27-11.45.00:398][  0]LogNetVersion: CardManGame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2581009945)
+[2022.04.27-11.45.02:351][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.27-11.45.02:401][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.048519 seconds
+[2022.04.27-11.45.02:406][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.04.27-11.45.02:406][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.04.27-11.45.02:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.27-11.45.04:199][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.27-11.45.04:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.27-11.45.04:921][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.04.27-11.45.04:921][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.04.27-11.45.04:921][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.04.27-11.45.05:043][  0]SourceControl: Source control is disabled
+[2022.04.27-11.45.05:043][  0]SourceControl: Source control is disabled
+[2022.04.27-11.45.05:081][  0]SourceControl: Source control is disabled
+[2022.04.27-11.45.05:128][  0]SourceControl: Source control is disabled
+[2022.04.27-11.45.05:148][  0]SourceControl: Source control is disabled
+[2022.04.27-11.45.05:181][  0]LogUProjectInfo: Found projects:
+[2022.04.27-11.45.06:414][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.27-11.45.06:482][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.27-11.45.06:482][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.27-11.45.06:712][  0]LogCollectionManager: Loaded 0 collections in 0.001217 seconds
+[2022.04.27-11.45.06:797][  0]LogFileCache: Scanning file cache for directory 'D:/Github/CardManGame/CardManGame/Saved/Collections/' took 0.00s
+[2022.04.27-11.45.06:798][  0]LogFileCache: Scanning file cache for directory 'D:/Github/CardManGame/CardManGame/Content/Developers/王俊博/Collections/' took 0.00s
+[2022.04.27-11.45.06:798][  0]LogFileCache: Scanning file cache for directory 'D:/Github/CardManGame/CardManGame/Content/Collections/' took 0.00s
+[2022.04.27-11.45.06:798][  0]LogOcInput: OculusInput pre-init called
+[2022.04.27-11.45.06:837][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.04.27-11.45.06:837][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.04.27-11.45.07:004][  0]LogEngine: Initializing Engine...
+[2022.04.27-11.45.07:006][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.27-11.45.07:006][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.27-11.45.07:009][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.04.27-11.45.07:229][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.27-11.45.07:283][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.27-11.45.07:288][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.27-11.45.07:307][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.27-11.45.07:307][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-11.45.07:308][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-11.45.07:308][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-11.45.07:309][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.27-11.45.07:309][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 5: BackRight
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.04.27-11.45.08:373][  0]LogAudioMixer: Display: 7: SideRight
+[2022.04.27-11.45.08:749][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2022.04.27-11.45.08:752][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-11.45.08:767][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-11.45.08:767][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-11.45.08:769][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-11.45.08:769][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-11.45.08:769][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.27-11.45.08:770][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-11.45.08:770][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-11.45.08:770][  0]LogInit: FAudioDevice initialized.
+[2022.04.27-11.45.08:771][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.27-11.45.08:772][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.27-11.45.08:809][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/王俊博/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.27-11.45.08:809][  0]LogInit: Texture streaming: Enabled
+[2022.04.27-11.45.08:867][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.04.27-11.45.08:883][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.27-11.45.08:883][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={8D84C258-4962-1984-45B8-40B85E7ADC3D}
+[2022.04.27-11.45.08:883][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.27-11.45.08:886][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.27-11.45.08:946][  0]LogInit: Transaction tracking system initialized
+[2022.04.27-11.45.09:071][  0]BlueprintLog: New page: Editor Load
+[2022.04.27-11.45.09:525][  0]LocalizationService: Localization service is disabled
+[2022.04.27-11.45.09:681][  0]TimingProfiler: Initialize
+[2022.04.27-11.45.09:683][  0]TimingProfiler: OnSessionChanged
+[2022.04.27-11.45.09:684][  0]LoadingProfiler: Initialize
+[2022.04.27-11.45.09:684][  0]LoadingProfiler: OnSessionChanged
+[2022.04.27-11.45.09:684][  0]NetworkingProfiler: Initialize
+[2022.04.27-11.45.09:685][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.27-11.45.09:685][  0]MemoryProfiler: Initialize
+[2022.04.27-11.45.09:685][  0]MemoryProfiler: OnSessionChanged
+[2022.04.27-11.45.10:222][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.27-11.45.10:222][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.27-11.45.10:962][  0]LogFileCache: Scanning file cache for directory 'D:/Github/CardManGame/CardManGame/Content/' took 0.01s
+[2022.04.27-11.45.11:356][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.27-11.45.11:361][  0]SourceControl: Source control is disabled
+[2022.04.27-11.45.11:362][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.004
+[2022.04.27-11.45.11:363][  0]Cmd: MAP LOAD FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.27-11.45.11:369][  0]LightingResults: New page: Lighting Build
+[2022.04.27-11.45.11:373][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-11.45.11:374][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-11.45.11:376][  0]MapCheck: New page: Map Check
+[2022.04.27-11.45.11:376][  0]LightingResults: New page: Lighting Build
+[2022.04.27-11.45.11:387][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.27-11.45.12:009][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2022.04.27-11.45.12:010][  0]LogAIModule: Creating AISystem for world Test
+[2022.04.27-11.45.12:032][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.27-11.45.12:043][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.27-11.45.12:044][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.27-11.45.12:044][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2022.04.27-11.45.12:044][  0]LogFileHelpers: Loading map 'Test' took 0.681
+[2022.04.27-11.45.12:070][  0]LogUnrealEdMisc: Total Editor Startup Time, took 23.711
+[2022.04.27-11.45.12:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-11.45.12:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-11.45.12:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-11.45.12:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-11.45.12:298][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3677 classes and 890 folders.
+[2022.04.27-11.45.12:305][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.27-11.45.12:321][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.27-11.45.12:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-11.45.12:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.04.27-11.45.12:327][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.27-11.45.12:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.27-11.45.12:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.04.27-11.45.12:332][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.27-11.45.12:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.27-11.45.12:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.04.27-11.45.12:336][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-11.45.12:336][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:336][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-11.45.12:336][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.04.27-11.45.12:340][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.27-11.45.12:340][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:340][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.27-11.45.12:340][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.04.27-11.45.12:344][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.27-11.45.12:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.27-11.45.12:344][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.04.27-11.45.12:348][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.27-11.45.12:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.27-11.45.12:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.04.27-11.45.12:353][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.27-11.45.12:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.27-11.45.12:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.04.27-11.45.12:358][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.27-11.45.12:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.27-11.45.12:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.27-11.45.12:363][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.27-11.45.12:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.27-11.45.12:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.27-11.45.12:369][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.27-11.45.12:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.27-11.45.12:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.04.27-11.45.12:373][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.27-11.45.12:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.27-11.45.12:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.04.27-11.45.12:377][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-11.45.12:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-11.45.12:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.27-11.45.12:381][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.27-11.45.12:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.27-11.45.12:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.04.27-11.45.12:385][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.27-11.45.12:385][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:385][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.27-11.45.12:385][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.04.27-11.45.12:389][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.27-11.45.12:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-11.45.12:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.04.27-11.45.12:393][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.27-11.45.12:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.27-11.45.12:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.04.27-11.45.12:398][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.27-11.45.12:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.27-11.45.12:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.04.27-11.45.12:402][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-11.45.12:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-11.45.12:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.04.27-11.45.12:410][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-11.45.12:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-11.45.12:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.04.27-11.45.12:414][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.27-11.45.12:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-11.45.12:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.04.27-11.45.12:418][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.27-11.45.12:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.27-11.45.12:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.04.27-11.45.12:422][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.27-11.45.12:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.27-11.45.12:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.04.27-11.45.12:426][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.27-11.45.12:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.27-11.45.12:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.04.27-11.45.12:431][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-11.45.12:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-11.45.12:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.04.27-11.45.12:435][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.27-11.45.12:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-11.45.12:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.27-11.45.12:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.04.27-11.45.12:657][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.27-11.45.12:663][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.04.27-11.45.12:882][  0]LogSlate: Took 0.004785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.27-11.45.12:887][  0]LogSlate: Took 0.003813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.27-11.45.12:897][  0]LogSlate: Took 0.005292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.27-11.45.13:019][  0]LogRenderer: Reallocating scene render targets to support 1208x368 Format 9 NumSamples 1 (Frame:1).
+[2022.04.27-11.45.13:243][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.27-11.45.13:243][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.04.27-11.45.13:243][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.04.27-11.45.13:243][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.04.27-11.45.13:243][  0]LogLoad: (Engine Initialization) Total time: 24.88 seconds
+[2022.04.27-11.45.13:243][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.27-11.45.13:243][  0]LogInit: First time updating LLM stats...
+[2022.04.27-11.45.13:307][  0]LogAssetRegistry: Asset discovery search completed in 13.6930 seconds
+[2022.04.27-11.45.13:308][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.04.27-11.45.13:338][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.04.27-11.45.13:389][  2]LogSlate: Took 0.004562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.27-11.45.13:488][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-11.45.14:270][ 45]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.27-11.46.02:169][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-11.46.02:688][900]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.04.27-11.46.03:558][900]LogSlate: Took 0.004671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.27-11.46.13:299][446]LogSlate: Took 0.004504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.27-11.46.22:404][798]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-11.46.34:881][517]LogRenderer: Reallocating scene render targets to support 1208x712 Format 9 NumSamples 1 (Frame:1).
+[2022.04.27-11.46.44:495][906]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.27-11.46.48:905][161]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.04.27-11.46.48:914][161]LogContentBrowser: Creating deferred item: NewInterface
+[2022.04.27-11.46.59:299][785]LogContentBrowser: Attempting asset rename: NewInterface -> IN_PlayerStateInterface
+[2022.04.27-11.46.59:303][785]LogContentBrowser: End creating deferred item NewInterface
+[2022.04.27-11.47.00:186][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/IN_PlayerStateInterface.IN_PlayerStateInterface
+[2022.04.27-11.47.02:335][957]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-11.47.02:363][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.27-11.47.02:387][957]LogSlate: Took 0.005748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.27-11.47.13:094][591]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.27-11.47.19:937][  0]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-11.47.19:971][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.27-11.47.20:384][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-11.47.20:389][ 24]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState9FD100304ABFA621C41B0A8FFCB00008.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-11.47.20:401][ 24]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-11.47.20:402][ 24]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-11.49.23:275][335]LogSlate: Took 0.004155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.27-11.49.31:702][834]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-11.49.31:727][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.27-11.49.57:818][497]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-11.49.57:840][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.27-11.49.58:288][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/IN_PlayerStateInterface" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset" SILENT=true
+[2022.04.27-11.49.58:290][522]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/IN_PlayerStateInterface69444B4A46B4288021E556BF3AD6B875.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset'
+[2022.04.27-11.49.58:306][522]AssetCheck: New page: Asset Save: IN_PlayerStateInterface
+[2022.04.27-11.49.58:306][522]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/IN_PlayerStateInterface.IN_PlayerStateInterface
+[2022.04.27-11.52.07:605][ 68]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-11.52.07:639][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.04.27-11.52.08:005][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-11.52.08:009][ 89]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState712953524A6F18F2EF45BBAB6BCFADF8.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-11.52.08:018][ 89]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-11.52.08:018][ 89]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-11.52.21:825][740]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-11.52.21:854][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-11.52.22:206][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-11.52.22:211][759]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState08BFAF4F481A4B20C02E30A96A8A5CCB.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-11.52.22:221][759]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-11.52.22:221][759]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-11.54.29:757][248]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-11.54.29:794][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.27-11.54.30:124][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-11.54.30:145][265]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Controller962422254CC9B6FED5D632B221DB2F7E.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-11.54.30:155][265]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-11.54.30:155][265]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-11.54.41:955][533]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-11.54.41:992][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.27-11.54.42:507][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-11.54.42:531][561]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_ControllerCC92B19E4FF4A318BCE1B8A631A26D97.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-11.54.42:540][561]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-11.54.42:540][561]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-11.54.54:907][299]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-11.54.54:952][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.27-11.54.55:308][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-11.54.55:327][318]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Controller9218AD3549CB0119AAB05FA373872EBD.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-11.54.55:336][318]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-11.54.55:336][318]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-11.55.04:471][865]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-11.55.04:503][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.04.27-11.55.04:907][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-11.55.04:912][888]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState77AD72F346B9FBF0E058C49ADED51CD6.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-11.55.04:923][888]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-11.55.04:923][888]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-11.55.59:459][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Character/BP_Character.BP_Character
+[2022.04.27-11.56.04:295][410]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-11.56.04:295][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-11.57.07:208][987]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-11.57.07:252][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.27-11.57.07:593][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-11.57.07:613][  4]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Controller74A140ED43035F7810B704BCC3DC0373.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-11.57.07:624][  4]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-11.57.07:624][  4]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-11.57.22:723][900]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-11.57.22:763][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-11.57.23:542][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/IN_PlayerStateInterface" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset" SILENT=true
+[2022.04.27-11.57.23:544][945]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/IN_PlayerStateInterface35FA93564E3F77AB0100C1B815BB5B6D.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset'
+[2022.04.27-11.57.23:554][945]AssetCheck: New page: Asset Save: IN_PlayerStateInterface
+[2022.04.27-11.57.23:554][945]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/IN_PlayerStateInterface.IN_PlayerStateInterface
+[2022.04.27-11.57.24:656][ 11]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-11.57.24:688][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.27-11.57.25:326][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-11.57.25:333][ 47]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState3D61E9314D6B22A691ECA5B599EC692A.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-11.57.25:344][ 47]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-11.57.25:344][ 47]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-11.57.31:293][398]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-11.57.31:330][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.04.27-11.57.31:727][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-11.57.31:750][420]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Controller463370E84EED8D2A5B0CAEBAF606CBA9.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-11.57.31:762][420]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-11.57.31:762][420]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-11.58.27:177][ 73]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2022.04.27-11.58.27:187][ 73]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2022.04.27-11.58.31:923][358]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> BP_Function
+[2022.04.27-11.58.31:925][358]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2022.04.27-11.58.32:277][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.00.05:162][405]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.00.05:186][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.04.27-12.00.05:543][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.00.05:546][425]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_FunctionF5BF4A4F486B65FCBF00FFB9C9BD963C.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.00.05:556][425]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.00.05:556][425]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.00.23:542][758]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.00.23:563][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.27-12.00.23:977][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.00.23:980][782]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function28DE9555412105CEA10F6CB7F27532C5.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.00.23:991][782]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.00.23:991][782]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.01.53:144][625]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-12.01.53:183][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.04.27-12.01.53:496][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-12.01.53:519][641]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_ControllerCA33C8DD44FBB2FE1D411E9427F9997E.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-12.01.53:530][641]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-12.01.53:530][641]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-12.39.24:991][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/IN_PlayerActionInterface.IN_PlayerActionInterface
+[2022.04.27-12.39.28:373][491]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.39.28:373][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.39.30:054][563]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/IN_PlayerAnimInterface.IN_PlayerAnimInterface
+[2022.04.27-12.40.25:165][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.04.27-12.40.25:166][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CardMan/Levels/Test' took 0.027
+[2022.04.27-12.40.25:167][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CardMan/BP/Control/IN_PlayerAnimInterface] ([1] browsable assets)...
+[2022.04.27-12.40.25:167][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardMan/BP/Control/IN_PlayerAnimInterface]
+[2022.04.27-12.40.25:169][622]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/IN_PlayerAnimInterface_Auto18ED2E009415808A72F0B8B822F7FD2BF.tmp' to '../../../../Github/CardManGame/CardManGame/Saved/Autosaves/Game/CardMan/BP/Control/IN_PlayerAnimInterface_Auto1.uasset'
+[2022.04.27-12.40.25:170][622]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.04.27-12.40.25:857][663]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.40.25:857][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.40.27:003][729]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-12.40.27:029][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.04.27-12.40.28:670][824]BlueprintLog: New page: Compile IN_PlayerAnimInterface
+[2022.04.27-12.40.28:697][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.27-12.41.21:905][491]BlueprintLog: New page: Compile BP_Controller
+[2022.04.27-12.41.21:948][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.27-12.41.22:290][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Controller" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset" SILENT=true
+[2022.04.27-12.41.22:315][509]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Controller5516E6244B6B220CD290C1BB74F5E6B3.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Controller.uasset'
+[2022.04.27-12.41.22:326][509]AssetCheck: New page: Asset Save: BP_Controller
+[2022.04.27-12.41.22:326][509]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Controller.BP_Controller
+[2022.04.27-12.41.37:324][402]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetSources/MagicalKnight_Set/Animation/atk_air01.atk_air01
+[2022.04.27-12.41.37:360][402]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.04.27-12.41.37:547][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.27-12.41.37:554][402]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.04.27-12.41.38:234][402]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.27-12.41.48:182][963]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.48:182][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.50:632][ 97]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.50:633][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.52:063][179]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.52:063][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.53:679][272]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.53:679][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.55:340][368]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.55:340][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.57:194][471]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.57:194][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.59:119][583]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.59:119][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.01:809][737]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.01:809][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.04:003][865]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.04:003][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.07:832][ 88]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.07:832][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.09:270][170]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.09:270][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.15:321][528]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.15:321][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.19:669][778]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.19:669][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.20:789][836]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/atk_energy10C60560FF4EF13D38C33ECE88D0D5BFA2.tmp' to '../../../../Github/CardManGame/CardManGame/Content/AssetSources/MagicalKnight_Set/Animation/atk_energy10.uasset'
+[2022.04.27-12.42.20:804][836]AssetCheck: New page: Asset Save: atk_energy10
+[2022.04.27-12.42.20:804][836]LogContentValidation: Display: Validating AnimSequence /Game/AssetSources/MagicalKnight_Set/Animation/atk_energy10.atk_energy10
+[2022.04.27-12.42.31:763][484]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.31:763][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.34:057][611]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.34:057][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.39:368][912]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/atk_air02672A9C024C25AE10CCF96E9F0942804F.tmp' to '../../../../Github/CardManGame/CardManGame/Content/AssetSources/MagicalKnight_Set/Animation/atk_air02.uasset'
+[2022.04.27-12.42.39:379][912]AssetCheck: New page: Asset Save: atk_air02
+[2022.04.27-12.42.39:379][912]LogContentValidation: Display: Validating AnimSequence /Game/AssetSources/MagicalKnight_Set/Animation/atk_air02.atk_air02
+[2022.04.27-12.42.41:376][ 26]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.41:376][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.44:914][227]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.44:914][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.49:433][483]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.49:433][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.53:549][721]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.42.53:549][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.44.55:046][378]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.44.55:046][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.44.55:059][378]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.44.55:059][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.44.55:110][378]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.44.55:110][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.45.07:608][ 90]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.45.07:624][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.27-12.45.07:624][ 90]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:173][ 90]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:277][ 90]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.27-12.45.08:287][ 91]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:304][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:320][ 93]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:337][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:353][ 95]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:370][ 96]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:387][ 97]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:403][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:421][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:437][100]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:453][101]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:470][102]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.08:488][103]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_0
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:0691
+[2022.04.27-12.45.23:775][993]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-12.45.23:887][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.04.27-12.45.24:241][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.45.24:245][ 12]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState20B637004B2BB6B04D99F086F393A19B.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.45.24:257][ 12]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.45.24:257][ 12]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.45.39:444][272]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-12.45.39:497][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.04.27-12.45.39:759][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.45.39:764][285]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerStateC37BC1EC41DA15948D6381B380157D74.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.45.39:777][285]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.45.39:777][285]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.45.47:325][506]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-12.45.47:374][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.04.27-12.45.47:675][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.45.47:680][522]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerStateCDC1ABB549A3B3EFADB29F991ACC0879.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.45.47:694][522]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.45.47:694][522]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.46.54:794][930]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-12.46.54:843][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.04.27-12.46.55:409][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.46.55:414][962]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState190EA2984C1D44821FF789B62943F71B.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.46.55:426][962]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.46.55:426][962]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.48.44:477][458]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-12.48.44:514][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.27-12.48.44:843][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/IN_PlayerStateInterface" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset" SILENT=true
+[2022.04.27-12.48.44:852][476]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/IN_PlayerStateInterface3F7CC781428A4E70C231B5ADCCB3741E.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset'
+[2022.04.27-12.48.44:868][476]AssetCheck: New page: Asset Save: IN_PlayerStateInterface
+[2022.04.27-12.48.44:868][476]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/IN_PlayerStateInterface.IN_PlayerStateInterface
+[2022.04.27-12.49.01:103][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.49.01:147][140]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimation5D35BA36469B777E8B26F4914A4EAD36.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.49.01:159][140]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.49.01:159][140]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.49.01:881][184]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-12.49.01:917][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.04.27-12.49.09:343][624]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-12.49.09:379][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.27-12.49.09:778][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/IN_PlayerStateInterface" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset" SILENT=true
+[2022.04.27-12.49.09:781][645]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/IN_PlayerStateInterfaceE3D829E0404BA08E59705EBB91C27822.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerStateInterface.uasset'
+[2022.04.27-12.49.09:793][645]AssetCheck: New page: Asset Save: IN_PlayerStateInterface
+[2022.04.27-12.49.09:793][645]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/IN_PlayerStateInterface.IN_PlayerStateInterface
+[2022.04.27-12.49.22:878][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/IN_PlayerAnimInterface" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerAnimInterface.uasset" SILENT=true
+[2022.04.27-12.49.22:880][968]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/IN_PlayerAnimInterfaceECF2A37A4E20D878181EEAA3C16A41F9.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/IN_PlayerAnimInterface.uasset'
+[2022.04.27-12.49.22:894][968]AssetCheck: New page: Asset Save: IN_PlayerAnimInterface
+[2022.04.27-12.49.22:894][968]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/IN_PlayerAnimInterface.IN_PlayerAnimInterface
+[2022.04.27-12.49.30:744][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.49.30:751][437]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerStateA2BB2F704EBAAFF89DB80E8C6B6728BC.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.49.30:764][437]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.49.30:764][437]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.50.19:309][338]BlueprintLog: New page: Compile IN_PlayerStateInterface
+[2022.04.27-12.50.19:345][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.04.27-12.50.44:879][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.50.44:884][422]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerStateA74E9CA84CA02FD8BCACCE90B7D2FB6D.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.50.44:897][422]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.50.44:897][422]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.50.57:746][161]BlueprintLog: New page: Compile BP_PlayerState
+[2022.04.27-12.50.57:793][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.27-12.50.58:212][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.50.58:218][184]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState0172FA7F406DFE823ADFC5BFC119223C.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.50.58:231][184]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.50.58:231][184]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.50.58:545][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.50.58:551][202]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerState3D6152D74A575D41F08EA7B35F797D4D.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.50.58:562][202]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.50.58:562][202]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.50.58:745][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_PlayerState" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset" SILENT=true
+[2022.04.27-12.50.58:750][212]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_PlayerStateB62AB2D84BE1814B1F44E8A7EA5E57E0.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_PlayerState.uasset'
+[2022.04.27-12.50.58:761][212]AssetCheck: New page: Asset Save: BP_PlayerState
+[2022.04.27-12.50.58:761][212]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_PlayerState.BP_PlayerState
+[2022.04.27-12.50.59:128][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.50.59:169][233]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimationCFE41D71448189E191F96FA2058908A9.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.50.59:179][233]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.50.59:179][233]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.51.30:478][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.51.45:410][736]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.51.45:447][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.04.27-12.51.45:480][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.51.45:484][736]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function9491711B43BA3B6F561D53AE45740D6C.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.51.45:500][736]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.51.45:500][736]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.51.45:813][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.51.45:816][754]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function5AB967654119F479F61645A05A237175.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.51.45:828][754]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.51.45:828][754]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.52.21:262][857]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.52.21:301][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.04.27-12.52.21:330][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.52.21:335][857]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_FunctionAECC60A6499FFFF48191AF95555961FE.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.52.21:348][857]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.52.21:348][857]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.52.22:112][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.52.22:117][902]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_FunctionB2479B24435139F4849516AF7D2FABE9.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.52.22:129][902]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.52.22:129][902]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.52.40:096][972]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.52.40:134][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.04.27-12.52.40:163][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.52.40:169][972]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function36C31B7840BD57269083808792700036.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.52.40:184][972]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.52.40:184][972]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.52.40:464][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.52.40:469][988]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function92BB1CF94AC0308E7E0387A19A20BC69.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.52.40:481][988]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.52.40:481][988]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.53.58:327][ 41]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.53.58:365][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.04.27-12.53.58:397][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.53.58:403][ 41]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_FunctionDD393F6F406B103842FBD6A09185A4D4.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.53.58:419][ 41]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.53.58:419][ 41]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.53.58:714][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.53.58:719][ 58]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function351E6A90467D79096999DCA11575EE43.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.53.58:732][ 58]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.53.58:732][ 58]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.54.31:117][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.04.27-12.54.31:118][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CardMan/Levels/Test' took 0.035
+[2022.04.27-12.54.31:118][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CardMan/BP/Control/BP_Controller] ([1] browsable assets)...
+[2022.04.27-12.54.31:118][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardMan/BP/Control/BP_Controller]
+[2022.04.27-12.54.31:140][605]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Controller_Auto27E81091545376C720437F1B05E0B6D8C.tmp' to '../../../../Github/CardManGame/CardManGame/Saved/Autosaves/Game/CardMan/BP/Control/BP_Controller_Auto2.uasset'
+[2022.04.27-12.54.31:140][605]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.04.27-12.54.39:581][101]BlueprintLog: New page: Compile BP_Function
+[2022.04.27-12.54.39:617][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.27-12.54.39:648][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.54.39:653][101]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_Function1B4B43574F554A24DE2287893C1975D7.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.54.39:668][101]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.54.39:668][101]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.54.40:414][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Control/BP_Function" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset" SILENT=true
+[2022.04.27-12.54.40:419][145]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/BP_FunctionF6080A854A9EB2E28E02C9BB77B952CF.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Control/BP_Function.uasset'
+[2022.04.27-12.54.40:430][145]AssetCheck: New page: Asset Save: BP_Function
+[2022.04.27-12.54.40:430][145]LogContentValidation: Display: Validating Blueprint /Game/CardMan/BP/Control/BP_Function.BP_Function
+[2022.04.27-12.55.26:815][722]BlueprintLog: New page: Compile ABP_CharacterAnimation
+[2022.04.27-12.55.26:847][722]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.26:847][722]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.26:882][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.27-12.55.26:923][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.55.26:967][722]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimation0259B9C044EB7EE2F920FE875F1516B0.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.55.26:980][722]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.55.26:980][722]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.55.26:980][722]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:027][723]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:049][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:065][725]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:082][726]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:099][727]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:115][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:132][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:149][730]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:165][731]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:185][732]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:199][733]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:215][734]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:232][735]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_1
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:06BD
+[2022.04.27-12.55.27:280][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.55.27:322][737]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimationEF7529DB402DB4E3156BE2BA9418A08E.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.55.27:332][737]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.55.27:332][737]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.55.36:797][292]BlueprintLog: New page: Compile ABP_CharacterAnimation
+[2022.04.27-12.55.36:831][292]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.36:831][292]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.36:866][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.04.27-12.55.36:907][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.55.36:951][292]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimation0B4D17884B4D9A4E0FC76CB49D8F666E.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.55.36:964][292]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.55.36:964][292]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.55.36:965][292]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:011][293]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:028][294]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:045][295]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:063][296]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:080][297]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:097][298]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:113][299]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:130][300]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:147][301]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:164][302]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:180][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:201][304]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:214][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_2
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.37:331][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.55.37:371][311]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimation4A4C8E834EC19C94A583D5855EDA8365.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.55.37:383][311]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.55.37:383][311]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.55.42:932][644]BlueprintLog: New page: Compile ABP_CharacterAnimation
+[2022.04.27-12.55.42:963][644]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.42:963][644]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.42:998][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.04.27-12.55.43:011][644]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:058][645]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:075][646]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:094][647]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:115][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:131][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:146][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:163][651]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:180][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:197][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:213][654]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:230][655]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:246][656]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:263][657]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_CharacterAnimation_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_CharacterAnimation_C_3
+	Function /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation_C:ExecuteUbergraph_ABP_CharacterAnimation:093E
+[2022.04.27-12.55.43:523][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardMan/BP/Character/ABP_CharacterAnimation" FILE="../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset" SILENT=true
+[2022.04.27-12.55.43:568][671]LogSavePackage: Moving '../../../../Github/CardManGame/CardManGame/Saved/ABP_CharacterAnimation4250736C4E827D012BFE7CBA4A2B5D7B.tmp' to '../../../../Github/CardManGame/CardManGame/Content/CardMan/BP/Character/ABP_CharacterAnimation.uasset'
+[2022.04.27-12.55.43:581][671]AssetCheck: New page: Asset Save: ABP_CharacterAnimation
+[2022.04.27-12.55.43:581][671]LogContentValidation: Display: Validating AnimBlueprint /Game/CardMan/BP/Character/ABP_CharacterAnimation.ABP_CharacterAnimation
+[2022.04.27-12.56.45:417][357]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.27-12.56.46:463][357]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.046 s
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: 
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: Ensure condition failed: !FindPin(FFunctionEntryHelper::GetWorldContextPinName()) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/K2Node_FunctionEntry.cpp] [Line: 364]
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: 
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: Stack: 
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7dac4499 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7d986a57 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7d968de9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7d96a4ae UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: [Callstack] 0x00007ffe64ccc25d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.27-12.56.46:463][357]LogOutputDevice: Error: [Callstack] 0x00007ffe64cb62b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe5f7c2686 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe5f73cc41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe5f9f68db UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe5f9943b6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7e6f33a9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7e72c62a UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe5f9ec0fe UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7e6c25b2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7e72e368 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffe7e722226 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffeb76db958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffeb76c9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffeb76de389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffeb76c4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffee034e858 USER32.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffee034e299 USER32.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffeb76df914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ff687bd8848 UE4Editor.exe!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ff687bf117c UE4Editor.exe!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ff687bf125a UE4Editor.exe!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ff687c052bd UE4Editor.exe!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ff687c07fea UE4Editor.exe!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffedf2d7034 KERNEL32.DLL!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: [Callstack] 0x00007ffee0ae2651 ntdll.dll!UnknownFunction []
+[2022.04.27-12.56.46:464][357]LogOutputDevice: Error: 
